@@ -8,7 +8,7 @@ class ProjectUtils {
   ];
 
   static const List<String> icons = [
-    "assets/projects/AppLogo.png",
+    "assets/projects/AL.png",
     "assets/projects/quran.png",
     "assets/projects/medkit.png",
     "assets/projects/hereiam.png",
@@ -36,7 +36,7 @@ class ProjectUtils {
   ];
 
   static const List<String> description = [
-    "A very unique dart package to uplift the snackbar experience in flutter. Available at pub.dev now!",
+    "University Canteen Food Ordering System to Streamline the process. Currently being considered to Publish!",
     "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
     "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels.",
     "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.",
@@ -50,7 +50,7 @@ class ProjectUtils {
   ];
 
   static const List<String> links = [
-    "https://pub.dev/packages/awesome_snackbar_content",
+    "https://github.com/yaksh1010/CampusCrave",
     "https://github.com/mhmzdev/The_Holy_Quran_App",
     "https://github.com/mhmzdev/MedKit-Pharmacy-App-Using-Flutter",
     "https://github.com/mhmzdev/Here-I-Am-Alert-App",
